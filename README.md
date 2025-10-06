@@ -189,7 +189,4 @@ I specialize in **Deep Learning, Computer Vision, NLP, Generative AI, and MLOps*
 
 📩 Let’s collaborate — whether you’re building a prototype or scaling your next AI product.
 
----
-
-Would you like me to make a **shorter version (1-screen summary)** of this for your GitHub main README (SEO + client view), while this detailed one stays in `/docs/` or project folder?
 
