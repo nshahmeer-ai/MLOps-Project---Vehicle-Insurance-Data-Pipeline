@@ -1,11 +1,3 @@
-# MLOps-Project---Vehicle-Insurance-Data-Pipeline
-
-Perfect 👌 yaar — tu chah raha hai ek **storytelling-style README** jo recruiter/client ko 20–30 seconds mein impress kare, lekin **technically detailed** bhi ho jaise tera example hai.
-Main usko rewrite karta hoon thoda **engaging tone**, **clean formatting**, aur **SEO keywords** ke sath — jaise: MLOps, CI/CD, AWS, Data Pipeline, FastAPI, etc.
-Yeh version GitHub par best lagega aur Upwork client ko bhi professional feel dega 👇
-
----
-
 # 🚗 Vehicle Insurance Data Pipeline — End-to-End MLOps Project
 
 Welcome to this **MLOps project**, built to showcase how a complete **Machine Learning pipeline** can manage and deploy **vehicle insurance data** in a real-world setup.
